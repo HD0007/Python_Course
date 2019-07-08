@@ -6,3 +6,5 @@
 
 
 i hope this will help you to learn basic python.
+
+i am open for suggestion please share your views.
